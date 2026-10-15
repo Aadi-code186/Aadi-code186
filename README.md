@@ -28,7 +28,7 @@ Building intelligent software with modern web technologies, automation and AI.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="<YOUR_PORTFOLIO_URL>">
+<a href="https://aditya-portfolio-se.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -47,7 +47,7 @@ I'm a **Software Engineering student** based in **Berlin, Germany 🇩🇪** wit
 
 Currently, I'm co-founding **SimpleGerman**, an AI-powered language learning platform designed to make learning German more engaging through interactive lessons, story-based learning, and intelligent progress tracking.
 
-I enjoy turning ideas into products—from system architecture and backend development to polished user interfaces.
+I enjoy turning ideas into products from system architecture and backend development to polished user interfaces.
 
 ---
 
